@@ -14,7 +14,7 @@ Atravez de api, também é possivel acessar um serviço de endereços.
 
 ---
 ## Endpoint disponibilizados
-![Diagrama da Aplicação](./img/api_api_servico.jpg)
+![Diagrama da Aplicação](./img/api_servico.jpg)
 
 ---
 ## Como executar 
